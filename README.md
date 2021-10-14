@@ -1,1 +1,0 @@
-# techieque.github.io
