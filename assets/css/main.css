@@ -497,14 +497,14 @@ input, select, textarea {
 
 	}
 
-/* Type */ 
+/* Type */
 
 	body, input, textarea, select {
 		font-family: "Source Sans Pro", "sans-serif";
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #d31e45; 
+		color: #d31e45;
 		letter-spacing: 0.025em;
 	}
 
