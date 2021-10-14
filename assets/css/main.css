@@ -438,7 +438,7 @@ input, select, textarea {
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
-			color: #460726;
+			color: #e7e5e6;
 			content: '\f1ce';
 			cursor: default;
 			display: block;
@@ -497,14 +497,14 @@ input, select, textarea {
 
 	}
 
-/* Type */
+/* Type */ 
 
 	body, input, textarea, select {
 		font-family: "Source Sans Pro", "sans-serif";
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #d31e45; 
 		letter-spacing: 0.025em;
 	}
 
